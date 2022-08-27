@@ -55,6 +55,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
+
+<!---
+<a href="add-repo-link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajkrsingh&repo=repo-name" />
+</a>
+
+---->
+
+---
+
+### :writing_hand: Blog Posts :
+
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
