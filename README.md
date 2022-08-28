@@ -32,8 +32,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on WordPress and Gutenberg stuff
 - 🌱 I’m currently learning React and Gutenberg
 - 👯 I’m looking to collaborate on WordPress Core and PHP core contribution
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Web Development
+- 🤔 I’m looking for help with React and PHPUnit Testing
+- 💬 Ask me anthing [here](https://github.com/surajkrsingh/surajkrsingh/issues/1)
 - 📫 How to reach me: suraj.sk342@gmail.com
 - 📄 Know more about, See my [Resume](https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf)
 - 😄 Pronouns: Surya
