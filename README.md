@@ -5,12 +5,19 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/SurajSingh176/">
-      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://twitter.com/Suraj_Kr_Singh">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.hackerrank.com/singh_surajkumar">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01c9efe3b1a0808e5d?viewMode=1">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
   </div>
+  
   
   # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suraj 
 </div>
