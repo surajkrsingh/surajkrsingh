@@ -62,14 +62,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
+---
+### <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  No, Please stop eating up my contributions! :
+
+<div align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
+
+</div>
 
 ---
 
 ### :fire: My GitHub Stats :
 
 <div id="stats" align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
-   
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
 ![Suraj's GitHub stats](https://activity-graph.herokuapp.com/graph?username=surajkrsingh&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true)
