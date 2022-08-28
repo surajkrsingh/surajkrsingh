@@ -27,9 +27,9 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer from India 🇮🇳
 
-- 🔭 I’m currently working on WordPress and Gutenberg stuff
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I’m currently working on WordPress and Gutenberg stuff
 - 🌱 I’m currently learning React and Gutenberg
 - 👯 I’m looking to collaborate on WordPress Core and PHP core contribution
 - 🤔 I’m looking for help with React and PHPUnit Testing
@@ -102,5 +102,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/surajkrsingh)  
-
-![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
