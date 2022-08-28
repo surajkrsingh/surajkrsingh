@@ -1,19 +1,22 @@
 <div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/> 
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>  
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/suraj-kumar-singh/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://www.facebook.com/SurajSingh176/">
+      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/Suraj_Kr_Singh">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   
-  ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suraj
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
+
 ---
 </div>
 
@@ -22,47 +25,35 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as WordPress Developer
+- 🌱 I’m currently learning React and Gutenberg
+- 👯 I’m looking to collaborate on WordPress Core and PHP core contribution
+- 🤔 I’m looking for help with React
+- 💬 Ask me about Web Development
+- 📫 How to reach me: suraj.sk342@gmail.com
+- 😄 Pronouns: Surya
+- ⚡ Fun fact: I am bit lazy because working only on productive hours...
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original-wordmark.svg" title="Foundation" alt="Foundation" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
 
 ---
 
@@ -74,10 +65,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
 ![Suraj's GitHub stats](https://activity-graph.herokuapp.com/graph?username=surajkrsingh&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true)
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
+ 
 <!---
 ![GitHub metrics](https://metrics.lecoq.io/surajkrsingh)  
 
