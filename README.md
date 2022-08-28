@@ -15,12 +15,8 @@
   </div>
   
   ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suraj
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
-
 ---
 </div>
-
-
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -37,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div id="stats" align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -59,14 +55,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My GitHub Stats :
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=surajkrsingh&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div id="stats" align="center">
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
 ![Suraj's GitHub stats](https://activity-graph.herokuapp.com/graph?username=surajkrsingh&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true)
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=surajkrsingh&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
  
+ </div>
 <!---
 ![GitHub metrics](https://metrics.lecoq.io/surajkrsingh)  
 
