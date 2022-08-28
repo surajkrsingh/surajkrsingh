@@ -57,6 +57,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome" width="40" height="40"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
+
 </div>
 
 
@@ -68,7 +71,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
 ![Suraj's GitHub stats](https://activity-graph.herokuapp.com/graph?username=surajkrsingh&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true)
   
