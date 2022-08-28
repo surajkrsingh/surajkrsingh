@@ -68,12 +68,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajkrsingh&theme=github-dark&fire=DD0000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkrsingh&theme=chartreuse-dark&show_icons=true)
 ![Suraj's GitHub stats](https://activity-graph.herokuapp.com/graph?username=surajkrsingh&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true)
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=surajkrsingh&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact)](https://github.com/surajkrsingh/github-readme-stats)
+
  
  </div>
 <!---
