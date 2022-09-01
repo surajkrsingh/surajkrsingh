@@ -99,6 +99,6 @@ I am a Full Stack Developer from India 🇮🇳
 </a>
 --->
 
-#### Thank you for visiting the page 🙏 🙂
+#### Thank you for visiting the profile 🙏 🙂
 
 ![Profile views](https://gpvc.arturio.dev/surajkrsingh)  
