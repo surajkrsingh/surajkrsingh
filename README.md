@@ -66,7 +66,7 @@ I am a Full Stack Developer from India 🇮🇳
 ### <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  No, Please stop eating up my contributions! :
 
 <div align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/surajkrsingh/surajkrsingh/blob/output/github-contribution-grid-snake.gif" alt="" style="max-width: 100%;"></a>
 
 </div>
 
