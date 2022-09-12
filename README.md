@@ -37,7 +37,7 @@ I am a Full Stack Developer from India 🇮🇳
 - 📫 How to reach me: suraj.sk342@gmail.com
 - 📄 Know more about, See my [Resume](https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf)
 - 😄 Pronouns: Surya
-- ⚡ Fun fact: I am bit lazy because working only on productive hours...
+- ⚡ Fun fact: I am bit lazy because working only on productive hours.
 
 ---
 
