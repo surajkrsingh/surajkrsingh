@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from India 🇮🇳
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I’m currently working on WordPress and Gutenberg stuff
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I’m currently working on WordPress, Gutenberg and React
 - 📖 I’m currently learning React and Gutenberg
 - 💻 I’m looking to collaborate on WordPress Core and PHP core contribution
 - 👐 I’m looking for help with React and PHPUnit Testing
