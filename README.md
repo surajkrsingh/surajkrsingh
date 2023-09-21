@@ -27,18 +27,18 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from India 🇮🇳
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I’m currently working on WordPress, Gutenberg and React
-- 📖 I’m currently learning React and Gutenberg
-- 💻 I’m looking to collaborate on WordPress Core and PHP core contribution
-- 👐 I’m looking for help with React and PHPUnit Testing
-- 💬 Ask me anything [here](https://github.com/surajkrsingh/surajkrsingh/issues/1)
-- 📫 How to reach me: suraj.sk342@gmail.com
-- 📄 Know more about, See my [Resume](https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf)
-- 😄 Pronouns: Surya
-- ⚡ Fun fact: I am bit lazy because working only on productive hours.
+I'm a dedicated Full Stack Developer hailing from the vibrant land of India 🇮🇳.
 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Currently, my creative energies are flowing into WordPress, Gutenberg, and React.
+- 📖 I'm in a perpetual quest to master React and Gutenberg, always expanding my knowledge.
+- 💻 I'm eagerly seeking opportunities to collaborate on WordPress Core and contribute to the PHP core.
+- 👐 I'm open to receiving assistance with React and PHPUnit Testing; let's grow together.
+- 💬 Don't hesitate to ask me anything [right here](https://github.com/surajkrsingh/surajkrsingh/issues/1).
+- 📫 Reach out to me via email: suraj.sk342@gmail.com.
+- 📄 Explore my professional journey further by checking out my [Resume](https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf).
+- 😄 You can call me Surya, that's my preferred pronoun.
+- ⚡ Fun fact: I have a knack for being a bit lazy, but when I work, I ensure it's during my most productive hours.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
