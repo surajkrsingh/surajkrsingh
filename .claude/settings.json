@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(gh api users/surajkrsingh)",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f''Name: {d.get\\(\"\"name\"\"\\)}\\\\nBio: {d.get\\(\"\"bio\"\"\\)}\\\\nLocation: {d.get\\(\"\"location\"\"\\)}\\\\nCompany: {d.get\\(\"\"company\"\"\\)}\\\\nBlog: {d.get\\(\"\"blog\"\"\\)}\\\\nPublic repos: {d.get\\(\"\"public_repos\"\"\\)}\\\\nFollowers: {d.get\\(\"\"followers\"\"\\)}''\\)\")",
+      "Bash(gh api users/surajkrsingh/repos --paginate -q '.[] | \"\"\\\\\\(.name\\) | \\\\\\(.description // \"\"No description\"\"\\) | ⭐\\\\\\(.stargazers_count\\) | Lang: \\\\\\(.language // \"\"N/A\"\"\\) | Fork: \\\\\\(.fork\\)\"\"')"
+    ]
+  }
+}

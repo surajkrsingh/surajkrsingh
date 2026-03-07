@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
-
 # Hey there, I'm Suraj Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 ### 🚀 Full Stack WordPress Engineer | MCA | Building Impactful Web Solutions
