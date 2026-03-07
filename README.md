@@ -57,28 +57,77 @@
 
 ## 🏆 Experience Timeline
 
-### 🟠 BuddyBoss — *Full-time · 5+ Years (Apr 2021 – Present)*
+<table>
+<tr>
+<td colspan="4">
+<h3>🟠 BuddyBoss — <i>Full-time · 5+ Years (Apr 2021 – Present)</i></h3>
+</td>
+</tr>
+<tr>
+<td width="20">🟢</td>
+<td><strong>Full Stack WP Engineer — Agency Services Specialist</strong></td>
+<td align="right"><code>Jan 2024 → Present</code></td>
+<td width="120"><img src="https://img.shields.io/badge/Current-brightgreen?style=flat-square" /></td>
+</tr>
+<tr>
+<td>🟡</td>
+<td><strong>WordPress Developer</strong> · BuddyBoss Media LLC</td>
+<td align="right"><code>Apr 2022 → Dec 2023</code></td>
+<td><img src="https://img.shields.io/badge/1_yr_9_mos-yellow?style=flat-square" /></td>
+</tr>
+<tr>
+<td>🟠</td>
+<td><strong>WordPress Technical Support Engineer</strong></td>
+<td align="right"><code>Apr 2021 → Mar 2022</code></td>
+<td><img src="https://img.shields.io/badge/1_yr-orange?style=flat-square" /></td>
+</tr>
 
-```
-🟢 Full Stack WP Engineer — Agency Services Specialist   Jan 2024 ──────────▶ Present
-🟡 WordPress Developer (BuddyBoss Media LLC)             Apr 2022 ── Dec 2023
-🟠 WordPress Technical Support Engineer                   Apr 2021 ── Mar 2022
-```
+<tr><td colspan="4">&nbsp;</td></tr>
 
-### 🔵 Easily Amused — *Remote · 4 Years*
+<tr>
+<td colspan="4">
+<h3>🔵 Easily Amused — <i>Remote · 4 Years</i></h3>
+</td>
+</tr>
+<tr>
+<td>🔵</td>
+<td><strong>Full Stack WordPress Engineer</strong> · Freelance</td>
+<td align="right"><code>Mar 2022 → Aug 2025</code></td>
+<td><img src="https://img.shields.io/badge/3_yr_6_mos-blue?style=flat-square" /></td>
+</tr>
+<tr>
+<td>🟣</td>
+<td><strong>WordPress Engineer</strong> · Part-time</td>
+<td align="right"><code>Sep 2021 → Feb 2022</code></td>
+<td><img src="https://img.shields.io/badge/6_mos-purple?style=flat-square" /></td>
+</tr>
 
-```
-🔵 Full Stack WordPress Engineer (Freelance)             Mar 2022 ── Aug 2025
-🟣 WordPress Engineer (Part-time)                         Sep 2021 ── Feb 2022
-```
+<tr><td colspan="4">&nbsp;</td></tr>
 
-### 🏢 Previous Roles
-
-```
-🔴 WordPress Developer — ExpressTech Systems (Full-time)  Jan 2020 ── Apr 2021
-🟤 WordPress Developer — Upwork (Freelance)               Aug 2019 ── Apr 2021
-⚫ Web Engineer — rtCamp (Full-time)                       Jan 2019 ── Jul 2019
-```
+<tr>
+<td colspan="4">
+<h3>🏢 Previous Roles</h3>
+</td>
+</tr>
+<tr>
+<td>🔴</td>
+<td><strong>WordPress Developer</strong> · ExpressTech Systems</td>
+<td align="right"><code>Jan 2020 → Apr 2021</code></td>
+<td><img src="https://img.shields.io/badge/1_yr_4_mos-red?style=flat-square" /></td>
+</tr>
+<tr>
+<td>🟤</td>
+<td><strong>WordPress Developer</strong> · Upwork (Freelance)</td>
+<td align="right"><code>Aug 2019 → Apr 2021</code></td>
+<td><img src="https://img.shields.io/badge/1_yr_9_mos-brown?style=flat-square" /></td>
+</tr>
+<tr>
+<td>⚫</td>
+<td><strong>Web Engineer</strong> · rtCamp</td>
+<td align="right"><code>Jan 2019 → Jul 2019</code></td>
+<td><img src="https://img.shields.io/badge/7_mos-gray?style=flat-square" /></td>
+</tr>
+</table>
 
 ---
 
@@ -129,12 +178,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajkrsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkrsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 
 </div>
 
