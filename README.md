@@ -1,213 +1,462 @@
+<!-- ============================================================ -->
+<!--   Suraj Singh — GitHub Profile README                        -->
+<!--   Full Stack WordPress Engineer · Agency Services Specialist -->
+<!--   Theme: Gold (#ebbe6a) + Dark Navy (#090e12)                -->
+<!-- ============================================================ -->
+
+<a href="https://iamsurajsingh.com">
+  <img src="resources/image/suraj-cover-photo.png" alt="Suraj Singh — Full Stack WordPress Engineer" width="100%" />
+</a>
+
 <div align="center">
 
-# Hey there, I'm Suraj Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+<!-- ─────────────  Tagline  ───────────── -->
 
-### 🚀 Full Stack WordPress Engineer | MCA | Building Impactful Web Solutions
+<img src="https://img.shields.io/badge/Full_Stack_WordPress_Engineer-ebbe6a?style=for-the-badge&labelColor=090e12" />
+<img src="https://img.shields.io/badge/LMS_·_Community_·_AI-090e12?style=for-the-badge&labelColor=ebbe6a" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=6%2B+Years+of+WordPress+Engineering+%F0%9F%94%A5;Agency+Services+%26+Client+Project+Lead+%F0%9F%8F%A2;Gutenberg+%7C+React+%7C+TypeScript+Expert+%E2%9A%A1;AI+Tools+%26+MCP+Builder+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-singh/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajkrsingh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Suraj_Kr_Singh)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c9efe3b1a0808e5d?viewMode=1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/singh_surajkumar)
+<sub><i>Building high-performance WordPress platforms that drive real business outcomes.</i></sub>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=surajkrsingh&color=blueviolet&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/surajkrsingh?style=flat-square&color=green&label=Followers)
+<!-- ─────────────  Quick Links  ───────────── -->
+
+<a href="https://iamsurajsingh.com">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-iamsurajsingh.com-ebbe6a?style=for-the-badge&logo=googlechrome&logoColor=090e12&labelColor=090e12" />
+</a>
+<a href="https://www.linkedin.com/in/suraj-kumar-singh/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-ebbe6a?style=for-the-badge&logo=linkedin&logoColor=ebbe6a&labelColor=090e12" />
+</a>
+<a href="https://twitter.com/Suraj_Kr_Singh">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-ebbe6a?style=for-the-badge&logo=x&logoColor=ebbe6a&labelColor=090e12" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01c9efe3b1a0808e5d?viewMode=1">
+  <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire-ebbe6a?style=for-the-badge&logo=upwork&logoColor=ebbe6a&labelColor=090e12" />
+</a>
+<a href="https://www.hackerrank.com/singh_surajkumar">
+  <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Profile-ebbe6a?style=for-the-badge&logo=hackerrank&logoColor=ebbe6a&labelColor=090e12" />
+</a>
+<a href="mailto:hello.surajkumarsingh@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Reach_Out-ebbe6a?style=for-the-badge&logo=gmail&logoColor=ebbe6a&labelColor=090e12" />
+</a>
+
+<br/><br/>
+
+<!-- ─────────────  Highlight Stats  ───────────── -->
+
+<img alt="Experience" src="https://img.shields.io/badge/⏳_Experience-7%2B_Years-ebbe6a?style=flat-square&labelColor=090e12" />
+<img alt="Plugins Shipped" src="https://img.shields.io/badge/🧩_Plugins_Shipped-100%2B-ebbe6a?style=flat-square&labelColor=090e12" />
+<img alt="Specialty" src="https://img.shields.io/badge/🎯_Specialty-LMS_%26_Community-ebbe6a?style=flat-square&labelColor=090e12" />
+<img alt="Status" src="https://img.shields.io/badge/✨_Open_to-Collaboration-2EA043?style=flat-square&labelColor=090e12" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=surajkrsingh&color=ebbe6a&style=flat-square&label=Profile+Views&labelColor=090e12" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/surajkrsingh?style=flat-square&color=ebbe6a&label=Followers&labelColor=090e12" alt="Followers" />
+<img src="https://img.shields.io/github/stars/surajkrsingh?style=flat-square&color=ebbe6a&label=Stars&labelColor=090e12" alt="Stars" />
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> &nbsp;About Me
+## <img src="https://cdn.simpleicons.org/wordpress/ebbe6a" width="24" /> &nbsp;About Me
 
-> *Full Stack WordPress Engineer with 6+ years of experience building impactful web solutions — from custom plugins & Gutenberg blocks to AI-powered tools & agency-scale client projects.*
+> **Full Stack WordPress Engineer with 7+ years of experience** crafting high-performance LMS platforms, community products, and AI-augmented WordPress workflows — from custom Gutenberg blocks to agency-scale client delivery.
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="290"/>
-
-🏢 &nbsp;Currently **Full Stack WordPress Engineer — Agency Services Specialist** at **[BuddyBoss](https://www.buddyboss.com/)** *(Jan 2024 – Present)*
-
-🎓 &nbsp;**MCA** from **Nirma University**, Ahmedabad, Gujarat
-
-🌍 &nbsp;Based in **Surat, Gujarat, India** 🇮🇳
+<table>
+  <tr>
+    <td width="40" align="center">🏢</td>
+    <td width="120"><b>Role</b></td>
+    <td>Full Stack WP Engineer · Agency Specialist <sub>@</sub> <a href="https://www.buddyboss.com/"><b>BuddyBoss</b></a> &nbsp;<sub><i>(Jan 2024 – Present)</i></sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Education</b></td>
+    <td>MCA · Nirma University, Ahmedabad, Gujarat</td>
+  </tr>
+  <tr>
+    <td align="center">📍</td>
+    <td><b>Location</b></td>
+    <td>Surat, India 🇮🇳 &nbsp;·&nbsp; Available <b>Remote · Worldwide</b></td>
+  </tr>
+  <tr>
+    <td align="center">📄</td>
+    <td><b>Resume</b></td>
+    <td><a href="https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf"><b>Download PDF</b></a></td>
+  </tr>
+</table>
 
 <br/>
 
-#### 💼 What I Do
+### <img src="https://cdn.simpleicons.org/codeforces/ebbe6a" width="20" /> &nbsp;What I Do
 
-- ⚡ &nbsp;Build & lead **agency client projects** end-to-end — requirements, architecture, delivery & support
-- 🧩 &nbsp;Create custom **Gutenberg blocks**, **Full Site Editing (FSE)** themes, and **REST API** integrations
-- 🚀 &nbsp;Develop modern frontends with **React**, **TypeScript**, and **Redux**
-- 🤖 &nbsp;Build **AI-powered tools** — MCP server integrations, AI content writers & intelligent WordPress workflows
-- 🎓 &nbsp;Empower educators with **LMS solutions** — LearnDash, LifterLMS & BuddyBoss platform
-- 🔌 &nbsp;Design scalable **WordPress plugin architectures** following best practices
-- 💚 &nbsp;Contribute to **WordPress Core** and open-source community
-
-<br/>
-
-#### 📄 &nbsp;[View My Resume](https://github.com/surajkrsingh/surajkrsingh/blob/main/resources/docs/suraj-wordpress-developer.pdf)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚡&nbsp; Agency Delivery</b><br/>
+      <sub>Lead client projects end-to-end — discovery, architecture, build, delivery & support.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧩&nbsp; Block Editor</b><br/>
+      <sub>Custom <b>Gutenberg blocks</b>, <b>FSE themes</b>, and clean <b>REST API</b> integrations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>⚛️&nbsp; Modern Frontend</b><br/>
+      <sub>Ship interfaces with <b>React</b>, <b>TypeScript</b>, and <b>Redux Toolkit</b>.</sub>
+    </td>
+    <td valign="top">
+      <b>🤖&nbsp; AI Engineering</b><br/>
+      <sub>Build <b>MCP servers</b>, AI content writers & intelligent WordPress workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🎓&nbsp; LMS Platforms</b><br/>
+      <sub>Architect on <b>LearnDash</b>, <b>LifterLMS</b>, <b>BuddyBoss</b> & <b>BuddyPress</b>.</sub>
+    </td>
+    <td valign="top">
+      <b>🔌&nbsp; Plugin Architecture</b><br/>
+      <sub>Scalable plugin design following <b>WordPress coding standards</b>.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Experience Timeline
+## <img src="https://cdn.simpleicons.org/buildkite/ebbe6a" width="22" /> &nbsp;Featured Projects & Contributions
 
 <table>
 <tr>
-<td colspan="4">
-<h3>🟠 BuddyBoss — <i>Full-time · 5+ Years (Apr 2021 – Present)</i></h3>
+<td width="50%" align="center" valign="top">
+
+<b>🔥 &nbsp; Reactions System & Mobile API</b>
+
+<sub><i>@ <a href="https://www.buddyboss.com/">BuddyBoss</a></i></sub>
+
+<p align="left">
+  <sub>
+  Engineered the platform-wide <b>reactions system</b> and the mobile app backend powering thousands of community sites and the BuddyBoss App.
+  </sub>
+</p>
+
+<img src="https://img.shields.io/badge/Community-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/Mobile_API-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/Scale-090e12?style=flat-square&labelColor=ebbe6a" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<b>📚 &nbsp; LearnDash Transfer Plugin & Add-ons</b>
+
+<sub><i>@ <a href="https://honorswp.com/">HonorsWP / Easily Amused</a></i></sub>
+
+<p align="left">
+  <sub>
+  Built the <b>Transfer plugin</b> and a suite of <b>LearnDash add-ons</b> — production tooling powering thousands of LMS sites worldwide.
+  </sub>
+</p>
+
+<img src="https://img.shields.io/badge/LearnDash-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/SaaS_WP-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/LMS-090e12?style=flat-square&labelColor=ebbe6a" />
+
 </td>
 </tr>
 <tr>
-<td width="20">🟢</td>
-<td><strong>Full Stack WP Engineer — Agency Services Specialist</strong></td>
-<td align="right"><code>Jan 2024 → Present</code></td>
-<td width="120"><img src="https://img.shields.io/badge/Current-brightgreen?style=flat-square" /></td>
-</tr>
-<tr>
-<td>🟡</td>
-<td><strong>WordPress Developer</strong> · BuddyBoss Media LLC</td>
-<td align="right"><code>Apr 2022 → Dec 2023</code></td>
-<td><img src="https://img.shields.io/badge/1_yr_9_mos-yellow?style=flat-square" /></td>
-</tr>
-<tr>
-<td>🟠</td>
-<td><strong>WordPress Technical Support Engineer</strong></td>
-<td align="right"><code>Apr 2021 → Mar 2022</code></td>
-<td><img src="https://img.shields.io/badge/1_yr-orange?style=flat-square" /></td>
-</tr>
+<td width="50%" align="center" valign="top">
 
-<tr><td colspan="4">&nbsp;</td></tr>
+<b>📋 &nbsp; Projectopia & Responsive Menu</b>
 
-<tr>
-<td colspan="4">
-<h3>🔵 Easily Amused — <i>Remote · 4 Years</i></h3>
+<sub><i>@ ExpressTech Systems</i></sub>
+
+<p align="left">
+  <sub>
+  Shipped <b>Projectopia</b> (project-management SaaS for WP) and contributed to <b>Responsive Menu</b> — a plugin powering 100k+ sites.
+  </sub>
+</p>
+
+<img src="https://img.shields.io/badge/Projectopia-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/SaaS-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/PHP-090e12?style=flat-square&labelColor=ebbe6a" />
+
 </td>
-</tr>
-<tr>
-<td>🔵</td>
-<td><strong>Full Stack WordPress Engineer</strong> · Freelance</td>
-<td align="right"><code>Mar 2022 → Aug 2025</code></td>
-<td><img src="https://img.shields.io/badge/3_yr_6_mos-blue?style=flat-square" /></td>
-</tr>
-<tr>
-<td>🟣</td>
-<td><strong>WordPress Engineer</strong> · Part-time</td>
-<td align="right"><code>Sep 2021 → Feb 2022</code></td>
-<td><img src="https://img.shields.io/badge/6_mos-purple?style=flat-square" /></td>
-</tr>
+<td width="50%" align="center" valign="top">
 
-<tr><td colspan="4">&nbsp;</td></tr>
+<b>🎬 &nbsp; rtMedia (Open Source)</b>
 
-<tr>
-<td colspan="4">
-<h3>🏢 Previous Roles</h3>
+<sub><i>@ <a href="https://rtcamp.com/">rtCamp</a></i></sub>
+
+<p align="left">
+  <sub>
+  Contributed to <b>rtMedia</b> — the open-source media plugin powering <b>BuddyPress</b> communities worldwide.
+  </sub>
+</p>
+
+<img src="https://img.shields.io/badge/Open_Source-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/BuddyPress-090e12?style=flat-square&labelColor=ebbe6a" />
+<img src="https://img.shields.io/badge/Media_API-090e12?style=flat-square&labelColor=ebbe6a" />
+
 </td>
-</tr>
-<tr>
-<td>🔴</td>
-<td><strong>WordPress Developer</strong> · ExpressTech Systems</td>
-<td align="right"><code>Jan 2020 → Apr 2021</code></td>
-<td><img src="https://img.shields.io/badge/1_yr_4_mos-red?style=flat-square" /></td>
-</tr>
-<tr>
-<td>🟤</td>
-<td><strong>WordPress Developer</strong> · Upwork (Freelance)</td>
-<td align="right"><code>Aug 2019 → Apr 2021</code></td>
-<td><img src="https://img.shields.io/badge/1_yr_9_mos-brown?style=flat-square" /></td>
-</tr>
-<tr>
-<td>⚫</td>
-<td><strong>Web Engineer</strong> · rtCamp</td>
-<td align="right"><code>Jan 2019 → Jul 2019</code></td>
-<td><img src="https://img.shields.io/badge/7_mos-gray?style=flat-square" /></td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.simpleicons.org/awesomelists/ebbe6a" width="22" /> &nbsp;Experience Timeline
 
-<div align="center">
+<!-- ─────────────  BuddyBoss  ───────────── -->
 
-#### 💻 Core Languages & Frameworks
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### 🧩 WordPress Ecosystem
-
-![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![LearnDash](https://img.shields.io/badge/LearnDash-1567B3?style=for-the-badge&logo=wordpress&logoColor=white)
-![LifterLMS](https://img.shields.io/badge/LifterLMS-2295FF?style=for-the-badge&logo=wordpress&logoColor=white)
-![BuddyBoss](https://img.shields.io/badge/BuddyBoss-F37021?style=for-the-badge&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-#### 🤖 AI & Automation
-
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-#### ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkrsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> <b>I love connecting with fellow developers and creators!</b>
-
-💬 **Have a question or want to collaborate?** [Open an issue](https://github.com/surajkrsingh/surajkrsingh/issues/1)
-
-📫 **Reach me at** — **suraj.sk342@gmail.com**
-
-🌐 **Open to volunteering** — Civil Rights, Social Action & Disaster Relief causes
+<table width="100%">
+<tr>
+  <td colspan="3" align="center">
+    <img src="https://img.shields.io/badge/BuddyBoss-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" height="32" />
+    &nbsp;&nbsp;
+    <kbd>&nbsp;Full-time&nbsp;</kbd>
+    &nbsp;&nbsp;
+    <code>Apr 2021 — Present</code>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Total-5%2B_Years-ebbe6a?style=for-the-badge&labelColor=090e12" height="26" />
+  </td>
+</tr>
+<tr>
+  <th align="left" width="58%">Role</th>
+  <th align="center" width="26%">Period</th>
+  <th align="center" width="16%">Tenure</th>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>Full Stack WP Engineer</b> &nbsp;<sub>· Agency Services Specialist</sub></td>
+  <td align="center"><code>Jan 2024 → Present</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/●_Current-2EA043?style=flat-square&labelColor=090e12" /></td>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>WordPress Developer</b> &nbsp;<sub>· BuddyBoss Media LLC</sub></td>
+  <td align="center"><code>Apr 2022 → Dec 2023</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/1y_9m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>WordPress Technical Support Engineer</b></td>
+  <td align="center"><code>Apr 2021 → Mar 2022</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/1y-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/suraj-kumar-singh/">
-  <img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- ─────────────  Easily Amused  ───────────── -->
+
+<table width="100%">
+<tr>
+  <td colspan="3" align="center">
+    <img src="https://img.shields.io/badge/Easily%20Amused-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" height="32" />
+    &nbsp;&nbsp;
+    <kbd>&nbsp;Remote&nbsp;</kbd>
+    &nbsp;&nbsp;
+    <code>Sep 2021 — Aug 2025</code>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Total-4_Years-ebbe6a?style=for-the-badge&labelColor=090e12" height="26" />
+  </td>
+</tr>
+<tr>
+  <th align="left" width="58%">Role</th>
+  <th align="center" width="26%">Period</th>
+  <th align="center" width="16%">Tenure</th>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>Full Stack WordPress Engineer</b> &nbsp;<sub>· Freelance</sub></td>
+  <td align="center"><code>Mar 2022 → Aug 2025</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/3y_6m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>WordPress Engineer</b> &nbsp;<sub>· Part-time</sub></td>
+  <td align="center"><code>Sep 2021 → Feb 2022</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/6m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────  Earlier Roles  ───────────── -->
+
+<table width="100%">
+<tr>
+  <td colspan="3" align="center">
+    <img src="https://img.shields.io/badge/Earlier%20Roles-ebbe6a?style=for-the-badge&logo=briefcase&logoColor=ebbe6a&labelColor=090e12" height="32" />
+    &nbsp;&nbsp;
+    <kbd>&nbsp;2019 – 2021&nbsp;</kbd>
+    &nbsp;&nbsp;
+    <code>Three companies</code>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Total-2%2B_Years-ebbe6a?style=for-the-badge&labelColor=090e12" height="26" />
+  </td>
+</tr>
+<tr>
+  <th align="left" width="58%">Role</th>
+  <th align="center" width="26%">Period</th>
+  <th align="center" width="16%">Tenure</th>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>WordPress Developer</b> &nbsp;<sub>· ExpressTech Systems</sub></td>
+  <td align="center"><code>Jan 2020 → Apr 2021</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/1y_4m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>WordPress Developer</b> &nbsp;<sub>· Upwork · Freelance</sub></td>
+  <td align="center"><code>Aug 2019 → Apr 2021</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/1y_9m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+<tr>
+  <td>▸ &nbsp;<b>Web Engineer</b> &nbsp;<sub>· rtCamp</sub></td>
+  <td align="center"><code>Jan 2019 → Jul 2019</code></td>
+  <td align="center"><img src="https://img.shields.io/badge/7m-ebbe6a?style=flat-square&labelColor=090e12" /></td>
+</tr>
+</table>
+
+---
+
+## <img src="https://cdn.simpleicons.org/devbox/ebbe6a" width="22" /> &nbsp;Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://cdn.simpleicons.org/javascript/ebbe6a" width="18" /> &nbsp;Languages & Frameworks
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-ebbe6a?style=for-the-badge&logo=php&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/JavaScript-ebbe6a?style=for-the-badge&logo=javascript&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/TypeScript-ebbe6a?style=for-the-badge&logo=typescript&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/React-ebbe6a?style=for-the-badge&logo=react&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Redux-ebbe6a?style=for-the-badge&logo=redux&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Node.js-ebbe6a?style=for-the-badge&logo=nodedotjs&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/MySQL-ebbe6a?style=for-the-badge&logo=mysql&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/SCSS-ebbe6a?style=for-the-badge&logo=sass&logoColor=ebbe6a&labelColor=090e12" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://cdn.simpleicons.org/wordpress/ebbe6a" width="18" /> &nbsp;WordPress Ecosystem
+
+<br/>
+
+<img src="https://img.shields.io/badge/WordPress-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Gutenberg-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/BuddyBoss-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/LearnDash-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/LifterLMS-ebbe6a?style=for-the-badge&logo=wordpress&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/WooCommerce-ebbe6a?style=for-the-badge&logo=woocommerce&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/REST_API-ebbe6a?style=for-the-badge&logo=fastapi&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/GraphQL-ebbe6a?style=for-the-badge&logo=graphql&logoColor=ebbe6a&labelColor=090e12" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://cdn.simpleicons.org/anthropic/ebbe6a" width="18" /> &nbsp;AI & Automation
+
+<br/>
+
+<img src="https://img.shields.io/badge/MCP_Servers-ebbe6a?style=for-the-badge&logo=anthropic&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Claude_API-ebbe6a?style=for-the-badge&logo=anthropic&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/OpenAI_API-ebbe6a?style=for-the-badge&logo=openai&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Claude_Code-ebbe6a?style=for-the-badge&logo=anthropic&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Agent_SDK-ebbe6a?style=for-the-badge&logo=anthropic&logoColor=ebbe6a&labelColor=090e12" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://cdn.simpleicons.org/git/ebbe6a" width="18" /> &nbsp;Tools & DevOps
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-ebbe6a?style=for-the-badge&logo=git&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/GitHub-ebbe6a?style=for-the-badge&logo=github&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Docker-ebbe6a?style=for-the-badge&logo=docker&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/GitHub_Actions-ebbe6a?style=for-the-badge&logo=githubactions&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Composer-ebbe6a?style=for-the-badge&logo=composer&logoColor=ebbe6a&labelColor=090e12" />
+<img src="https://img.shields.io/badge/Shell-ebbe6a?style=for-the-badge&logo=gnubash&logoColor=ebbe6a&labelColor=090e12" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/ebbe6a" width="22" /> &nbsp;GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/surajkrsingh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surajkrsingh&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=090e12&title_color=ebbe6a&icon_color=ebbe6a&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=surajkrsingh&hide_border=true&background=090e12&stroke=ebbe6a&ring=ebbe6a&fire=ebbe6a&currStreakLabel=ebbe6a&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/surajkrsingh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkrsingh&layout=compact&hide_border=true&bg_color=090e12&title_color=ebbe6a&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajkrsingh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </a>
 
 </div>
 
 ---
 
+## <img src="https://cdn.simpleicons.org/rocket/ebbe6a" width="22" /> &nbsp;Currently Exploring
+
+<table>
+  <tr>
+    <td width="40" align="center">🔬</td>
+    <td><b>MCP Servers</b> for WordPress &nbsp;<sub>— bridging WP with LLM-powered agents</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧪</td>
+    <td><b>Claude Code & Agent SDK</b> &nbsp;<sub>— supercharging dev productivity workflows</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📚</td>
+    <td><b>Full Site Editing</b> & block-based architecture &nbsp;<sub>— next-gen WP theming</sub></td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://cdn.simpleicons.org/maildotru/ebbe6a" width="22" /> &nbsp;Let's Build Something
+
 <div align="center">
 
-⭐ **If you find my work helpful, consider giving a star!** ⭐
+> **Have an LMS to scale, a community to launch, or an AI workflow to integrate?** &nbsp;Let's talk.
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70"/>
+<br/>
+
+<a href="mailto:hello.surajkumarsingh@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Drop_an_Email-ebbe6a?style=for-the-badge&logoColor=ebbe6a&labelColor=090e12" alt="Email" />
+</a>
+&nbsp;
+<a href="https://iamsurajsingh.com">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-ebbe6a?style=for-the-badge&logoColor=090e12&labelColor=090e12" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/surajkrsingh/surajkrsingh/issues/new">
+  <img src="https://img.shields.io/badge/💬_Open_an_Issue-ebbe6a?style=for-the-badge&logoColor=ebbe6a&labelColor=090e12" alt="GitHub Issue" />
+</a>
+
+<br/><br/>
+
+<sub>⭐ &nbsp;<i>If you find my work useful, a star on a repo means a lot.</i> &nbsp;⭐</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ebbe6a&height=2&section=footer" width="100%" alt="divider" />
+
+<sub><i>Crafted with care · Built on WordPress · Powered by curiosity</i></sub>
 
 </div>
