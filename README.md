@@ -131,19 +131,19 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<b>🔥 &nbsp; Reactions System & Mobile API</b>
+<b>🔥 &nbsp;BuddyBoss and Agency Client Services</b>
 
 <sub><i>@ <a href="https://www.buddyboss.com/">BuddyBoss</a></i></sub>
 
 <p align="left">
   <sub>
-  Engineered the platform-wide <b>reactions system</b> and the mobile app backend powering thousands of community sites and the BuddyBoss App.
+  Lead end-to-end <b>agency client delivery</b> on the BuddyBoss platform — discovery, architecture, custom builds and ongoing support for community, LMS and mobile-app projects at scale.
   </sub>
 </p>
 
+<img src="https://img.shields.io/badge/Agency_Delivery-090e12?style=flat-square&labelColor=ebbe6a" />
 <img src="https://img.shields.io/badge/Community-090e12?style=flat-square&labelColor=ebbe6a" />
 <img src="https://img.shields.io/badge/Mobile_API-090e12?style=flat-square&labelColor=ebbe6a" />
-<img src="https://img.shields.io/badge/Scale-090e12?style=flat-square&labelColor=ebbe6a" />
 
 </td>
 <td width="50%" align="center" valign="top">
